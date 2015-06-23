@@ -60,5 +60,5 @@ For your convenience a list of the questions on one page, feel free to send PRs 
 47. compare and contrast Kafka, Storm, and Spark 
 48. are you familiar with LASP?
 49. difficulties of programming concurrent systems in shared memory env? 
-50. (last one) do you even know how vector clocks work?
+50. do you even know how vector clocks work?
 
